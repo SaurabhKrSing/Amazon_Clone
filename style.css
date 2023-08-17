@@ -52,7 +52,7 @@ margin-left: 3px;
     display: flex;
     justify-content: space-evenly;
     background-color: aqua;
-    width: 850px;
+    width: 700px;
     height: 40px;
     border-radius: 5px;
 }
@@ -71,8 +71,6 @@ margin-left: 3px;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
     border: none;
-    /* margin-left: 10px;
-    margin-right: 10px; */
     padding: 0px 0px 0px 5px;
 }
 .search-input{
